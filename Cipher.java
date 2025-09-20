@@ -24,6 +24,14 @@ public class Cipher {
         //System.out.println(encrypt);
         return encrypt;
     }
+
+    public static String VigenereCipher(String 
+
+
+
+
+
+    
     
     public static String Aristocrat (String msg, String keyw, int key) {
         String encrypt = "";
